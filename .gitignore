@@ -1,8 +1,11 @@
 node_modules
 dist
+.idea
 
 *lock.json
 
 *.log
 
 *.iml
+
+*.xml
